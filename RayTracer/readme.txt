@@ -1,5 +1,3 @@
-I've implemented everything; ie. all of the test cases produce the same results as the keys for me. 
-
 How to compile:
 Open the RayTracer.sln file and Build with visual studio. I was using Visual Studio 2019 for this project. In the configuration manager, I have it set to Release, so building it as such will build as release, not debug. If debug is wanted, swap the active solution config.
 
