@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LocalDebuggerCommandArguments>Debug/testsAndKeys/testAmbient.txt Debug/testsAndKeys/testBackground.txt Debug/testsAndKeys/testBehind.txt Debug/testsAndKeys/testDiffuse.txt Debug/testsAndKeys/testIllum.txt Debug/testsAndKeys/testImgPlane.txt Debug/testsAndKeys/testIntersection.txt Debug/testsAndKeys/testParsing.txt Debug/testsAndKeys/testReflection.txt Debug/testsAndKeys/testSample.txt Debug/testsAndKeys/testShadow.txt Debug/testsAndKeys/testSpecular.txt</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LocalDebuggerCommandArguments>Debug/testsAndKeys/testAmbient.txt Debug/testsAndKeys/testBackground.txt Debug/testsAndKeys/testBehind.txt Debug/testsAndKeys/testDiffuse.txt Debug/testsAndKeys/testIllum.txt Debug/testsAndKeys/testImgPlane.txt Debug/testsAndKeys/testIntersection.txt Debug/testsAndKeys/testParsing.txt Debug/testsAndKeys/testReflection.txt Debug/testsAndKeys/testSample.txt Debug/testsAndKeys/testShadow.txt Debug/testsAndKeys/testSpecular.txt</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+</Project>

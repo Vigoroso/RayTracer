@@ -1,0 +1,9 @@
+﻿  invert.cpp
+  ppm.cpp
+  RayTracer.cpp
+  Sphere.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 280 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  RayTracer.vcxproj -> D:\SchoolWork\CSC305\Assignment 3\RayTracer\Release\RayTracer.exe
